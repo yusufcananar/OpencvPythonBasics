@@ -46,5 +46,5 @@ There are implementations of opencv-python documentation at each chapter.
 Image and video files are taken from google images search. In case of any copyright please contact me to remove the files.
 
 # References
-[OpenCV-Python Docs](https://docs.opencv.org/4.5.2/d6/d00/tutorial_py_root.html) <Enter>
+[OpenCV-Python Docs](https://docs.opencv.org/4.5.2/d6/d00/tutorial_py_root.html) <Enter>   
 [Murtaza's Workshop](https://www.youtube.com/watch?v=WQeoO7MI0Bs&list=PLMoSUbG1Q_r9p7iYBg6z6tZP002DAJ41H) <Enter>
